@@ -22,7 +22,7 @@
 
 ### Experience
 
-* **GREE** *Technical Director / Manager of Technical Direction Team* __2018 to present__
+* **GREE** *Technical Director / Manager of Technical Direction Team* __2018 to present__  
 	Technology selection for new projects.
 	Preliminary Survey and Advice in basic gaming technology.
 	Milestone design of technology for Studio.
@@ -32,18 +32,18 @@
 	**Technical Environment** C++, C#, Python
 
 
-* **GREE** *Software Engineer* __2012 to 2018__
+* **GREE** *Software Engineer* __2012 to 2018__  
 	Programmer in some game development projects.
 	In charge of overrall design such as game loop, state machine.
 	UI framework, data model, network design, security, build pipe-line, and Graphics.
 	I often used C++11.
 	**Technical Environment** C++, C#, Python, PHP, GLSL
 	
-* **GREE** *Recruiter / Interviewer* __2014 to present__
+* **GREE** *Recruiter / Interviewer* __2014 to present__  
 	New graduate, Mid-career recruitment. Interviewer, and attending recruitment event.
 
 
-* **CEDEC2018** *CEDEC Awards Engineering Steering Committee* __2018__
+* **CEDEC2018** *CEDEC Awards Engineering Steering Committee* __2018__  
 
 ------
 
