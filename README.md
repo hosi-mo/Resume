@@ -50,21 +50,21 @@
 ### Projects
 
 * **Another Eden**
-[Official Web Site](https://en.another-eden.jp)
+[Official Web Site](https://en.another-eden.jp)  
 	Free-to-play role-playing video game developed by Wright Flyer Studios.
 	Network Design, Auto-Saving Technology, UI Framework, State Machines, Data Model, and Graphics.
 	Client Engineer, and Main Programmer, and Manager.
 
 * **LINE Tower Rising**
-[Youtube Promotion Movie](https://www.youtube.com/watch?v=jvwZ4VfGoVM)
+[Youtube Promotion Movie](https://www.youtube.com/watch?v=jvwZ4VfGoVM)  
 	Free-to-play role-playing casual 2D game developed by Wright Flyer Studios, published by LINE.
 	Network Design, State Machines, Data Model, and Easing Animations.
 	Client Engineer, and Main Programmer.
 
-* **RPG Progject**
+* **RPG Progject**  
 	Sadly, no released.
 
-* **Animal Frends**
+* **Animal Frends**  
 	City-building video games. Sadly, already closed. No English Archives.
 
 
