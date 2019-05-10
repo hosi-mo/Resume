@@ -79,6 +79,7 @@
 Featured on [gamebiz](https://gamebiz.jp/?p=192603)
 
 * **GAME CREATORS CONFERENCE '18**  
+[GCCONF2018](http://www.gc-conf.com/event_2018/)
 How to realize the real RPG experience on "smartphone".
 Featured on [4gamer](http://www.4gamer.net/games/318/G031841/20180402034/)
 
