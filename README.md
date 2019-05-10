@@ -73,11 +73,16 @@
 
 ### Conference Presentations
 
-* **CEDEC 2017**
+* **CEDEC 2018**  
+"Tool Management" in "Another Eden": Learning through the development of in Game Editor tools.
 Featured on [gamebiz](https://gamebiz.jp/?p=192603)
-* **GAME CREATORS CONFERENCE '18**
+
+* **GAME CREATORS CONFERENCE '18**  
+How to realize the real RPG experience on "smartphone".
 Featured on [4gamer](http://www.4gamer.net/games/318/G031841/20180402034/)
-* **CEDEC 2018**
+
+* **CEDEC 2017**  
+Achieving a stress-free game experience with asynchronous auto save in Another Eden.
 Featured on [gamebiz](https://gamebiz.jp/?p=192603)
 
 ------
